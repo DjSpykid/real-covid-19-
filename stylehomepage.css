@@ -361,8 +361,9 @@ button:hover {
     }
 
     .container1 img {
-        width: 80%;
+          width: 60%;
         margin: 10px auto;
+        margin-left: 60px;
     }
 
     h1 {
